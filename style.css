@@ -1,0 +1,62 @@
+.box3{
+    background: black;
+    display: flex;
+}
+.sect{
+    background: url("image/image 3.png");
+    padding-top: 415px;
+    padding-bottom: 300px;
+}
+.spisok ul{
+    list-style: none;
+    color: white;
+    display: flex;
+}
+.spisok li{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.sayt img{
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.menu3 h2{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+.sect1{
+    background: url("image/image 4.png");
+    padding-top: 173px;
+    padding-bottom: 147px;
+}
+.sect1 .gg{
+    text-align: center;
+    color: white;
+}
+.sect1 .gg h3{
+    font-size: 100px;
+}
+.sect2{
+    background: url("image/_DSC5341 1.png");
+    padding-top: 152px;
+    padding-bottom: 168px;
+}
+.sect2 .hh h4{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+.sect3{
+    background: url("image/fried-potatoes-french-fries-yellow 1.png");
+    padding-top: 197px;
+    padding-bottom: 125px;
+}
+.sect3 .jj h4{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+.sect4{
+    background: url("image/image 6.png");
+}
